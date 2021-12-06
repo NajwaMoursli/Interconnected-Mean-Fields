@@ -3,7 +3,7 @@
 ## Interconnected-Mean-Fields
 
 Research project made with **The UNIC-CNRS (http://cns.iaf.cnrs-gif.fr/) research team inspired by the Virtual Brain Approach (https://www.thevirtualbrain.org/)** during my MEng internship at **Polytech-Sorbonne**
-![alt text](https://github.com/NajwaMoursli/Interconnected-Mean-Fields/blob/master/logo_cnrs.jpg?raw=true) ![alt text](https://github.com/NajwaMoursli/Interconnected-Mean-Fields/blob/master/polytec_sorbonne_T.png?raw=true)
+![alt text](https://github.com/NajwaMoursli/Interconnected-Mean-Fields/blob/master/logo_cnrs.jpg?raw=true) ![alt text](https://github.com/NajwaMoursli/Interconnected-Mean-Fields/blob/master/polytech_sorbonne_T.png?raw=true)
 
 
 ## Repositories
