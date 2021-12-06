@@ -14,9 +14,7 @@ Research project made with **The UNIC-CNRS (http://cns.iaf.cnrs-gif.fr/) researc
   * **interconn_sim_b1.ipynb** : main file to get the mean firing rate map and the time traces for each (Qe,delay) values to draw bifurcation states
   * **Adex_interconn.ipynb** : interconnected corresponding AdEx
 * **image_b1_rk4**: times traces and heatmap obtained through the simulation :
-![alt text](https://github.com/NajwaMoursli/Interconnected-Mean-Fields/blob/master/image_rk4_b1/E1_images/frE1_rk4_states.png)
-![alt text](https://github.com/NajwaMoursli/Interconnected-Mean-Fields/blob/master/image_rk4_b1/E2_images/frE2_rk4_states.png)
-![alt text](https://github.com/NajwaMoursli/Interconnected-Mean-Fields/blob/master/image_rk4_b1/I1-I2_images/frI1_rk4_states.png)
-![alt text](https://github.com/NajwaMoursli/Interconnected-Mean-Fields/blob/master/image_rk4_b1/I1-I2_images/frI2_rk4_states.png)
+![alt text](https://github.com/NajwaMoursli/Interconnected-Mean-Fields/blob/master/image_rk4_b1/E1_images/frE1_rk4_states.png)![alt text](https://github.com/NajwaMoursli/Interconnected-Mean-Fields/blob/master/image_rk4_b1/E2_images/frE2_rk4_states.png)
+
 
 
