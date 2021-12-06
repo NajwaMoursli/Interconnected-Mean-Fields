@@ -2,7 +2,7 @@
 
 ## Interconnected-Mean-Fields
 
-Research project made with **The UNIC-CNRS (http://cns.iaf.cnrs-gif.fr/) research team inspired by the Virtual Brain Approach (https://www.thevirtualbrain.org/)
+Research project made with **The UNIC-CNRS (http://cns.iaf.cnrs-gif.fr/) research team inspired by the Virtual Brain Approach (https://www.thevirtualbrain.org/)**
 
 ## Repositories
 * **MF repositories** : include the transfer function, single_cells and synapases constructions as displayed : 
