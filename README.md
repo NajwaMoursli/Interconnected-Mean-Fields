@@ -21,4 +21,3 @@ Therefore, inspired by the Virtual Brain approach ({https://www.thevirtualbrain.
 ![alt text](https://github.com/NajwaMoursli/Interconnected-Mean-Fields/blob/master/image_rk4_b1/E2_images/frE2_rk4_states.png?raw=true)
 
  
-### Contributors : Najwa Moursli, Pr. Destexhe, Ph.D. Depannemaecker and Ph.D. Carlu
